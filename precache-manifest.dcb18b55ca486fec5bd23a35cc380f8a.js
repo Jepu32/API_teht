@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d4027fff01dbc64649cbb364b4f614b",
+    "revision": "ed07b390c60e12ba9886c3a10131f1fc",
     "url": "/API_teht/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/API_teht/static/css/2.dc17f35a.chunk.css"
   },
   {
-    "revision": "d75ddddf0c7398509ddb",
+    "revision": "2f8a3370aa4a54387b5c",
     "url": "/API_teht/static/css/main.ebd016bb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/API_teht/static/js/2.eb9fe44b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d75ddddf0c7398509ddb",
-    "url": "/API_teht/static/js/main.3aba36d9.chunk.js"
+    "revision": "2f8a3370aa4a54387b5c",
+    "url": "/API_teht/static/js/main.0637cfee.chunk.js"
   },
   {
     "revision": "e64f152413936a58bcdb",

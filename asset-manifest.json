@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/API_teht/static/css/main.ebd016bb.chunk.css",
-    "main.js": "/API_teht/static/js/main.3aba36d9.chunk.js",
-    "main.js.map": "/API_teht/static/js/main.3aba36d9.chunk.js.map",
+    "main.js": "/API_teht/static/js/main.0637cfee.chunk.js",
+    "main.js.map": "/API_teht/static/js/main.0637cfee.chunk.js.map",
     "runtime-main.js": "/API_teht/static/js/runtime-main.8c64bd3a.js",
     "runtime-main.js.map": "/API_teht/static/js/runtime-main.8c64bd3a.js.map",
     "static/css/2.dc17f35a.chunk.css": "/API_teht/static/css/2.dc17f35a.chunk.css",
     "static/js/2.eb9fe44b.chunk.js": "/API_teht/static/js/2.eb9fe44b.chunk.js",
     "static/js/2.eb9fe44b.chunk.js.map": "/API_teht/static/js/2.eb9fe44b.chunk.js.map",
     "index.html": "/API_teht/index.html",
-    "precache-manifest.39274fadbe1a54ebe7bd24061e1c03e1.js": "/API_teht/precache-manifest.39274fadbe1a54ebe7bd24061e1c03e1.js",
+    "precache-manifest.dcb18b55ca486fec5bd23a35cc380f8a.js": "/API_teht/precache-manifest.dcb18b55ca486fec5bd23a35cc380f8a.js",
     "service-worker.js": "/API_teht/service-worker.js",
     "static/css/2.dc17f35a.chunk.css.map": "/API_teht/static/css/2.dc17f35a.chunk.css.map",
     "static/css/main.ebd016bb.chunk.css.map": "/API_teht/static/css/main.ebd016bb.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.dc17f35a.chunk.css",
     "static/js/2.eb9fe44b.chunk.js",
     "static/css/main.ebd016bb.chunk.css",
-    "static/js/main.3aba36d9.chunk.js"
+    "static/js/main.0637cfee.chunk.js"
   ]
 }
