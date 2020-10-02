@@ -32,9 +32,9 @@ function Weather() {
             <input placeholder="etsi kaupungin sää.." onChange={handleChange} value={city} ></input>
             <button onClick={getData}>Search</button>
             <h2>forecast for: {city}</h2>
-            <h3>tempature: {tempp}°C</h3>
+            <h3>temp: {tempp}°C</h3>
             <h3>description: {desc}</h3>
-            <h3>huimidity: {humidity}</h3>
+            <h3>humidity: {humidity}</h3>
             <img src={imgUrl} key={imgUrl} alt="sää kuva"></img>
         
         </div>
