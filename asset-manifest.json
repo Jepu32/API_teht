@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.ebd016bb.chunk.css",
-    "main.js": "/static/js/main.8c46187d.chunk.js",
-    "main.js.map": "/static/js/main.8c46187d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.355aec6a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.355aec6a.js.map",
-    "static/css/2.dc17f35a.chunk.css": "/static/css/2.dc17f35a.chunk.css",
-    "static/js/2.eb9fe44b.chunk.js": "/static/js/2.eb9fe44b.chunk.js",
-    "static/js/2.eb9fe44b.chunk.js.map": "/static/js/2.eb9fe44b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8ed9f3e96e839d999d3b4c3a29bca194.js": "/precache-manifest.8ed9f3e96e839d999d3b4c3a29bca194.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.dc17f35a.chunk.css.map": "/static/css/2.dc17f35a.chunk.css.map",
-    "static/css/main.ebd016bb.chunk.css.map": "/static/css/main.ebd016bb.chunk.css.map",
-    "static/js/2.eb9fe44b.chunk.js.LICENSE.txt": "/static/js/2.eb9fe44b.chunk.js.LICENSE.txt"
+    "main.css": "/API_teht/static/css/main.ebd016bb.chunk.css",
+    "main.js": "/API_teht/static/js/main.3aba36d9.chunk.js",
+    "main.js.map": "/API_teht/static/js/main.3aba36d9.chunk.js.map",
+    "runtime-main.js": "/API_teht/static/js/runtime-main.8c64bd3a.js",
+    "runtime-main.js.map": "/API_teht/static/js/runtime-main.8c64bd3a.js.map",
+    "static/css/2.dc17f35a.chunk.css": "/API_teht/static/css/2.dc17f35a.chunk.css",
+    "static/js/2.eb9fe44b.chunk.js": "/API_teht/static/js/2.eb9fe44b.chunk.js",
+    "static/js/2.eb9fe44b.chunk.js.map": "/API_teht/static/js/2.eb9fe44b.chunk.js.map",
+    "index.html": "/API_teht/index.html",
+    "precache-manifest.39274fadbe1a54ebe7bd24061e1c03e1.js": "/API_teht/precache-manifest.39274fadbe1a54ebe7bd24061e1c03e1.js",
+    "service-worker.js": "/API_teht/service-worker.js",
+    "static/css/2.dc17f35a.chunk.css.map": "/API_teht/static/css/2.dc17f35a.chunk.css.map",
+    "static/css/main.ebd016bb.chunk.css.map": "/API_teht/static/css/main.ebd016bb.chunk.css.map",
+    "static/js/2.eb9fe44b.chunk.js.LICENSE.txt": "/API_teht/static/js/2.eb9fe44b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.355aec6a.js",
+    "static/js/runtime-main.8c64bd3a.js",
     "static/css/2.dc17f35a.chunk.css",
     "static/js/2.eb9fe44b.chunk.js",
     "static/css/main.ebd016bb.chunk.css",
-    "static/js/main.8c46187d.chunk.js"
+    "static/js/main.3aba36d9.chunk.js"
   ]
 }
